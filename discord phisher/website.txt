@@ -1,0 +1,18 @@
+1. Must have a domain from before.
+
+- Go onto https://cloudfare.com/ and register
+after creating an account go add a website.
+
+- configure the name servers to get your SSL or secure site symbol.
+
+-go to your repl and add site, copy the CNAME given.
+
+- open command prompt in your pc and hype nslookup `your CNAME`
+
+-copy the ip address and paste it in cloudfare.
+
+-Link your domain and your good to go.
+
+-Have common sense and watch the video to make it easier 
+
+https://t.me/piggymart
